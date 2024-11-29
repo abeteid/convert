@@ -1,3 +1,5 @@
+pkg install git
+
 git clone https://github.com/abeteid/convert.git
 
 
