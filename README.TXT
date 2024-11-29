@@ -1,11 +1,5 @@
 git clone https://github.com/abeteid/convert.git
 
-chmod +x install
-
-./install
-
-======================
-
 
 cd convert
 
